@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenysMurenko
-- 👀 I’m interested in music, phography
+- 👀 I’m interested in music, photography
 - 🌱 I’m currently learning Python
 
 
